@@ -1,0 +1,9 @@
+id,title,category,level,status,minutes,date,note
+250137,붕대 감기,implementation,1,todo,,,
+250136,석유 시추,bfs_dfs,2,todo,,,
+250135,아날로그 시계,implementation,2,todo,,,
+250134,수레 움직이기,backtracking,3,todo,,,
+340213,동영상 재생기,implementation,1,todo,,,
+340212,퍼즐 게임 챌린지,binary_search,2,todo,,,
+340211,충돌위험 찾기,implementation,2,todo,,,
+340210,수식 복원하기,brute_force,3,todo,,,
